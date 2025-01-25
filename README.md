@@ -1,4 +1,4 @@
-# Gamification-app-
+# Gamification app - clone of Duolingo 
 AI Chatbot + Games - Builded with unity
 
 
